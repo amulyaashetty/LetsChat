@@ -1,2 +1,2 @@
 # LetsChat
-A firebase chat-application with online ststuses , image support , sound notification , multiple rooms etc.
+A firebase chat-application with online status , image support , sound notification , multiple rooms etc.
